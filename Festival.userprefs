@@ -1,0 +1,25 @@
+﻿<Properties StartupItem="Festival.Droid\Festival.Droid.csproj">
+  <DisabledProjects>
+    <String>Festival.WindowsPhone\Festival.WindowsPhone.csproj</String>
+    <String>Festival.WindowsPhone.Tests\Festival.WindowsPhone.Tests.csproj</String>
+    <String>Festival.iOS\Festival.iOS.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.SelectDevice" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Festival" expanded="True">
+            <Node name="Festival.Droid" expanded="True">
+              <Node name="Views" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
