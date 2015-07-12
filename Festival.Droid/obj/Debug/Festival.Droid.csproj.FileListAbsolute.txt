@@ -27,3 +27,6 @@ C:\code\Festival\Festival.Droid\obj\Debug\res\drawable\icon.png
 C:\code\Festival\Festival.Droid\obj\Debug\res\values\mvxbindingattributes.xml
 C:\code\Festival\Festival.Droid\obj\Debug\R.cs.flag
 C:\code\Festival\Festival.Droid\obj\Debug\uploadflags.txt
+C:\Users\dev\Documents\Projects\kenibarwick\festival.git\Festival.Droid\obj\Debug\Festival.Droid.csprojResolveAssemblyReference.cache
+C:\Users\dev\Documents\Projects\kenibarwick\festival.git\Festival.Droid\obj\Debug\Festival.Droid.dll
+C:\Users\dev\Documents\Projects\kenibarwick\festival.git\Festival.Droid\obj\Debug\Festival.Droid.pdb
